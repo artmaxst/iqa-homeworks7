@@ -10,5 +10,5 @@
 Это домашнее задание можно выполнить и в текстовом виде, и в виде таблицы: вы можете выбрать тот формат, который вам ближе и удобнее.
 
 # Решение:
-[Задание 1](https://github.com/artmaxst/Homework/blob/main/2.5.pdf)
+[Задание 1](https://github.com/artmaxst/iqa-homeworks7/blob/main/2.5.pdf)
 
